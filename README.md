@@ -12,7 +12,7 @@
   </a>
 
   <p align="center">
-    Audio Denoiser
+    RemixIT
     <br />
   </p>
 </p>
@@ -43,7 +43,6 @@
 * [Animate.css](https://daneden.github.io/animate.css)
 * [Slick Carousel](https://kenwheeler.github.io/slick)
 * [Font Awesome](https://fontawesome.com)
-* [othneildrew github](https://github.com/othneildrew)
 
 
 
