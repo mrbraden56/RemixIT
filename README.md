@@ -12,7 +12,7 @@
   </a>
 
   <p align="center">
-    RemixIT 
+    RemixIT
     <br />
   </p>
 </p>
