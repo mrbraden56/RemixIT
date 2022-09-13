@@ -12,7 +12,7 @@
   </a>
 
   <p align="center">
-    RemixIT  
+    RemixIT: A lightweight neural network for speech enhancement on embedded devices
     <br />
   </p>
 </p>
